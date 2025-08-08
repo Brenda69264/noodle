@@ -7,3 +7,4 @@ Notes and usage details for noodle.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
