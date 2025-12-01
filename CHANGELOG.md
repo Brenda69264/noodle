@@ -24,3 +24,4 @@
 - docs: link the usage section
 - docs: fix a small wording issue
 - chore: link the usage section
+- chore: add a note about the defaults
